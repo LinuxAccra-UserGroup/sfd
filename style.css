@@ -1,0 +1,30 @@
+body {
+  margin-left: 10%; margin-right: 10%;
+}
+img {  text-decoration: none; }
+h1 { margin-left: 8%;}
+h2,h3,h4,h5,h6 { margin-left: 8%; }
+.logo1 { margin-top: 6em; margin-bottom: 6em; text-align: center;}
+
+
+.logo { margin: 15px; vertical-align: middle; text-align: center; border: 0;}
+
+
+td { text-align: center; border: 0px; }
+img { border: 0px;}
+.header {margin-top: 1em; margin-bottom: 3em; margin-right: 1em; text-align: center; }
+p { font-size: 24pt; font-family: sans-serif; font-style: normal; color: #479d44; margin-top: 1em; margin-bottom: 1em; text-align: center;}
+hr { height: 1px; width: 80%; color: #c8effe; background-color: #96c946;}
+ul { font-size: 14pt; font-family: sans-serif; font-style: normal; color: #479d44; text-align: left; margin-left: 25%;}
+p.head { font-size: 24pt; font-family: sans-serif; font-style: normal; color: #479d44; margin-top: 2em; margin-bottom: 2em; text-align: center; margin-bottom: 0em;}
+p.date { font-size: 18pt; color: #0d73b0; }
+
+a:link {
+  color: #039
+}
+a:visited {
+  color: #636;
+}
+a:hover {
+  color: #289728;
+  text-decoration: underline;
